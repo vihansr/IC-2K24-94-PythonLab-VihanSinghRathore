@@ -1,0 +1,13 @@
+# Name: Vipul Purohit
+# Roll No: IC-2K24-96
+
+n = int(input('Enter number: '))
+if n > 1:
+    for i in range(2, int(n**0.5) + 1):
+        if n % i == 0:
+            print('Not a prime number')
+            break
+    else:
+        print('Prime number')
+else:
+    print('Not prime')
