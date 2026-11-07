@@ -1,5 +1,5 @@
-# Name: Vipul Purohit
-# Roll No: IC-2K24-96
+# Name: Vihan Singh Rathore
+# Roll No: IC-2K24-94
 
 def math_op(x, y, sign):
     if sign == '+': return x + y

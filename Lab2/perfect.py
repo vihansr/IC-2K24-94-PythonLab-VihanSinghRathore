@@ -1,5 +1,5 @@
-# Name: Vipul Purohit
-# Roll No: IC-2K24-96
+# Name: Vihan Singh Rathore
+# Roll No: IC-2K24-94
 
 num = int(input('Enter a number: '))
 divisors_sum = 0

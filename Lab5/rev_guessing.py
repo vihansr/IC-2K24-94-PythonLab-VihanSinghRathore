@@ -1,5 +1,5 @@
-# Name: Vipul Purohit
-# Roll No: IC-2K24-96
+# Name: Vihan Singh Rathore
+# Roll No: IC-2K24-94
 
 print('Think of a number between 1 and 10')
 low = 1

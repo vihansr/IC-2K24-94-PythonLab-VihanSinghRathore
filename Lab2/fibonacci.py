@@ -1,5 +1,5 @@
-# Name: Vipul Purohit
-# Roll No: IC-2K24-96
+# Name: Vihan Singh Rathore
+# Roll No: IC-2K24-94
 
 n = int(input('How many terms? '))
 n1 = 0

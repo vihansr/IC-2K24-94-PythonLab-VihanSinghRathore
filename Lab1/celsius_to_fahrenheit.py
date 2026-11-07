@@ -1,5 +1,5 @@
-# Name: Vipul Purohit
-# Roll No: IC-2K24-96
+# Name: Vihan Singh Rathore
+# Roll No: IC-2K24-94
 
 c = float(input('Enter temperature in Celsius: '))
 f = (c * 9/5) + 32

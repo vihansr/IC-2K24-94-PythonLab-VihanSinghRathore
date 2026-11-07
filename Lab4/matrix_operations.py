@@ -1,5 +1,5 @@
-# Name: Vipul Purohit
-# Roll No: IC-2K24-96
+# Name: Vihan Singh Rathore
+# Roll No: IC-2K24-94
 
 mat1 = [[1, 2], [3, 4]]
 mat2 = [[5, 6], [7, 8]]
